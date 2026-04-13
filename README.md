@@ -491,27 +491,30 @@ Curiosidad insaciable: Deseo de entender cómo funcionan internamente las cosas.
 Nunca ataques sistemas sin permiso (puede ser un delito).
 Hacking ético: Usa tus habilidades para mejorar la seguridad, no para dañar.
 Regla de oro: "Si no tienes autorización escrita, no lo hagas".
+
 📚 Recursos para Seguir Aprendiendo
-📖 Libros
+## 📖 Libros
 "The Hacker Playbook" (Peter Kim) – Guía práctica de pentesting.
 "Black Hat Python" (Justin Seitz) – Exploits en Python.
 "Hacking: The Art of Exploitation" (Jon Erickson) – Fundamentos técnicos.
+
 Certificaciones Recomendadas
-|- ✅ Certificación | Nivel | Enfoque | |---------------|-------|---------| | eJPT | Principiante | Práctico, ideal para empezar | | OSCP | Intermedio | Examen 24h 100% práctico (el más valorado) | | CEH | Intermedio | Teórico, herramientas y técnicas | | OSCP | Avanzado | Exploits avanzados, bypass de AV/EDR |
-🎥 Canales de YouTube
+## ✅ Certificación | Nivel | Enfoque | |---------------|-------|---------| | eJPT | Principiante | Práctico, ideal para empezar | | OSCP | Intermedio | Examen 24h 100% práctico (el más valorado) | | CEH | Intermedio | Teórico, herramientas y técnicas | | OSCP | Avanzado | Exploits avanzados, bypass de AV/EDR |
+## 🎥 Canales de YouTube
+
 LiveOverflow – Exploits avanzados y análisis de malware.
 S4vitar – Hacking ético y CTFs.
 STÖK – Técnicas de red team.
-🌐 Comunidades
+
+## 🌐 Comunidades
 r/netsec – Noticias y discusiones de seguridad.
 0x00sec – Foro de hacking ético.
 Hack The Box Discord – Comunidad activa de CTFs.
-🔚 Conclusión: La Mentalidad del Hacker de Élite
-"Un hacker no es quien usa herramientas, sino quien entiende cómo funcionan las cosas y las explota de formas que otros no imaginan."
 
+## 🔚 Conclusión: La Mentalidad del Hacker de Élite
+"Un hacker no es quien usa herramientas, sino quien entiende cómo funcionan las cosas y las explota de formas que otros no imaginan."
 No copies exploits: Crea los tuyos.
 No dependas de herramientas: Desarrolla las tuyas.
 No te conformes con lo básico: Busca 0-days y técnicas sigilosas.
-🚀 ¿Listo para empezar? El camino es largo, pero cada línea de código que escribas te acercará a dominar el arte del hacking de élite.
 
 📌 Nota: Este README es solo para fines educativos. Siempre actúa con ética y legalidad.
