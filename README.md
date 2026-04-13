@@ -498,10 +498,11 @@ Regla de oro: "Si no tienes autorización escrita, no lo hagas".
 "Black Hat Python" (Justin Seitz) – Exploits en Python.
 "Hacking: The Art of Exploitation" (Jon Erickson) – Fundamentos técnicos.
 
-Certificaciones Recomendadas
-## ✅ Certificación | Nivel | Enfoque | |---------------|-------|---------| | eJPT | Principiante | Práctico, ideal para empezar | | OSCP | Intermedio | Examen 24h 100% práctico (el más valorado) | | CEH | Intermedio | Teórico, herramientas y técnicas | | OSCP | Avanzado | Exploits avanzados, bypass de AV/EDR |
-## 🎥 Canales de YouTube
+## Certificaciones Recomendadas
 
+ ** ✅ Certificación | Nivel | Enfoque | eJPT | Principiante | Práctico, ideal para empezar | | OSCP | Intermedio | Examen 24h 100% práctico (el más valorado) | | CEH | Intermedio | Teórico, herramientas y técnicas | | OSCP | Avanzado | Exploits avanzados, bypass de AV/EDR |
+ 
+## 🎥 Canales de YouTube
 LiveOverflow – Exploits avanzados y análisis de malware.
 S4vitar – Hacking ético y CTFs.
 STÖK – Técnicas de red team.
